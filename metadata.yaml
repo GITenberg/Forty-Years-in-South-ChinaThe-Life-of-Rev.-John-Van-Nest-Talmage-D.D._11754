@@ -1,0 +1,27 @@
+_repo: Forty-Years-in-South-ChinaThe-Life-of-Rev.-John-Van-Nest-Talmage-D.D._11754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fagg, John Gerardus
+    birthdate: 1860
+    deathdate: 1917
+    gutenberg_agent_id: '4094'
+    url: http://www.gutenberg.org/2009/agents/4094
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Talmage, John Van Nest, 1819-1892'
+- !lcsh 'Missions -- China'
+- !lcc 'BX'
+- GITenberg
+title: 'Forty Years in South China
+
+  The Life of Rev. John Van Nest Talmage, D.D.'
+url: http://www.gutenberg.org/ebooks/11754
